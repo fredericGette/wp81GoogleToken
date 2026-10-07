@@ -62,8 +62,6 @@ set /p TOKEN=<token.txt
 del token.txt
 ```
 
-Without the `Content-Type` header, Cloud Storage stores the file as
-`application/octet-stream`.
 
 ### Checking a token
 
